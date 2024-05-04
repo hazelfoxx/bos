@@ -10,7 +10,7 @@ import styles from './screenfive.module.scss';
 const Screenfive = () => {
   const router = useRouter();
   const handleclick = () => {
-    router.push('')
+    router.push('https://direct.lc.chat/17755197/')
   }
   return (
     <>
